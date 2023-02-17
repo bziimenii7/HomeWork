@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
         int account = 100;
-        int deposit = 2000;
+        int deposit = 1050;
 
         int bonus;
-        if (deposit > 1100) {
+        if (deposit > 1000) {
             bonus = deposit / 100;
         } else {
             bonus = 0;
